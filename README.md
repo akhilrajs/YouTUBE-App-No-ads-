@@ -1,11 +1,12 @@
 # akhilrajs-YouTUBE-NO-ADS-PLUS-DOWNLOADS-AUDIO-and-VIDEO
 this is an alternate to youtube . it doesnt show any ads. it can be used to stream both audio and video . it can be used to download audio and video .
 
-- here is a gif showing how to search , stream , and download youtube videos usning this app
-![2020-08-24 18-32-14](https://user-images.githubusercontent.com/67222042/91049403-c7097980-e63a-11ea-8d06-54dd41fec2f5.gif)
-
 - you can install this application os windows using the
 # Windows installation link : https://drive.google.com/file/d/1SHa4eToIbJEyYnEGNI-DF9LgRMLIbE6F/view?usp=sharing
+
+
+- here is a gif showing how to search , stream , and download youtube videos usning this app
+![2020-08-24 18-32-14](https://user-images.githubusercontent.com/67222042/91049403-c7097980-e63a-11ea-8d06-54dd41fec2f5.gif)
 
 - after installing the software open it from the folder
 ![1](https://user-images.githubusercontent.com/67222042/91049940-99710000-e63b-11ea-9099-ba253df1457d.jpg)
