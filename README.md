@@ -1,5 +1,6 @@
 # akhilrajs-YouTUBE-NO-ADS-PLUS-DOWNLOADS-AUDIO-and-VIDEO
 this is an alternate to youtube . it doesnt show any ads. it can be used to stream both audio and video . it can be used to download audio and video .
+# VLC is required to be installed in the PC for this software to work perfectly
 
 - you can install this application os windows using the
 # Windows installation link : https://drive.google.com/file/d/1SHa4eToIbJEyYnEGNI-DF9LgRMLIbE6F/view?usp=sharing
